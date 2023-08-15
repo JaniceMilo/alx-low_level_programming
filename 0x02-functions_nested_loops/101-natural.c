@@ -1,6 +1,6 @@
 /*
  * File: 101-natural.c
- * Auth: janice 
+ * Auth: janice milo 
  */
 
 #include <stdio.h>
